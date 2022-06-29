@@ -1,0 +1,36 @@
+img{
+    width:80%;
+
+}
+.grid-container1{
+    margin: 30px;
+    display: flex;
+    justify-content: flex-start;
+    align-content: center;
+    align-items: center;
+    
+}
+
+.grid-container2{
+    margin: 30px;
+    display: flex;
+    justify-content: flex-start;
+    align-content: center;
+    align-items: center;
+}
+
+.music{
+    order:2;
+}
+
+.headphones{
+    order:3;
+}
+
+.shoes{
+    order:1;
+}
+
+.shop{
+    order:4;
+}
